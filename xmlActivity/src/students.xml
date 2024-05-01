@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <year>Freshman</year>
+        <major>Computer Science</major>
+        <GPA>3.5</GPA>
+    </student>
+    <student id="2">
+        <year>Sophomore</year>
+        <major>Finance</major>
+        <GPA>3.9</GPA>
+    </student>
+</students>
